@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kjk608
 - 👀 I’m interested in Raspberry pi, Android apps, UnrealEngine and SteamLoco
-- 🌱 I’m currently learning C and Racket
+- 🌱 I’m currently learning CS2013
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
